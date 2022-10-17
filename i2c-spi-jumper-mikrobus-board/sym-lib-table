@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Interface_I2C")(type "KiCad")(uri "${KIPRJMOD}/../_symbols/Interface_I2C.kicad_sym")(options "")(descr ""))
+  (lib (name "Switch_Pairwise")(type "KiCad")(uri "${KIPRJMOD}/../_symbols/Switch_Pairwise.kicad_sym")(options "")(descr ""))
+)

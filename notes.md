@@ -1,0 +1,1 @@
+The pin header used by MikroElektronika for the mikroBUS Shuttle appears to be a CNC 3221-16-0300-00, available from DigiKey (not Mouser). Most other shrouded pin headers do not have the "open sides" (or only have them at the bottom of the pin header but not near the top).

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Connector_PinHeader_2.54mm_Jumper")(type "KiCad")(uri "${KIPRJMOD}/../_footprints/Connector_PinHeader_2.54mm_Jumper.pretty")(options "")(descr ""))
+)

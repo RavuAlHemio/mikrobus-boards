@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Interface_KNX")(type "KiCad")(uri "${KIPRJMOD}/../_symbols/Interface_KNX.kicad_sym")(options "")(descr ""))
+  (lib (name "Switch_Pairwise")(type "KiCad")(uri "${KIPRJMOD}/../_symbols/Switch_Pairwise.kicad_sym")(options "")(descr ""))
+)
