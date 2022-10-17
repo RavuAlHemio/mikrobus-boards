@@ -1358,7 +1358,7 @@
     (property "Datasheet" "" (id 3) (at 140.97 85.725 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C2678036" (id 4) (at 140.97 85.725 0)
+    (property "LCSC" "C5190384" (id 4) (at 140.97 85.725 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "I2C" (id 5) (at 140.97 85.725 0)
