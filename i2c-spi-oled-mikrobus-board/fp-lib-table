@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Connector_PinHeader_2.54mm_Jumper")(type "KiCad")(uri "${KIPRJMOD}/../_footprints/Connector_PinHeader_2.54mm_Jumper.pretty")(options "")(descr ""))
   (lib (name "Connector_PinHeader_1.27mm_LowProfile")(type "KiCad")(uri "${KIPRJMOD}/../_footprints/Connector_PinHeader_1.27mm_LowProfile.pretty")(options "")(descr ""))
+  (lib (name "JLCPCB")(type "KiCad")(uri "${KIPRJMOD}/../_footprints/JLCPCB.pretty")(options "")(descr ""))
 )
