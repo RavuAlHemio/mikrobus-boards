@@ -30,5 +30,6 @@ The non-SPI pins are connected to the PCA9557PW as follows:
 | P1        | D/¬C          |
 | P2        | EN            |
 | P3        | R/¬W          |
+| P4        | ¬RST          |
 
-Pins P4 through P7 are unconnected.
+Pins P5 through P7 are unconnected.
