@@ -229,6 +229,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2652336"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf8eeebc-c938-40a0-979b-bafea722a2b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SO*3.9x9.9mm*P1.27mm*")
 		(path "/770ae8ed-ed99-4850-bd61-6750449cf70d")
 		(sheetname "/")
@@ -693,6 +706,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C25900"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d4864835-a651-4978-b88a-f1b38eeca33f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a0e0f9d7-6330-45b5-8d4d-ad535de813ca")
 		(sheetname "/")
@@ -897,7 +923,7 @@
 		(path "/0ad94c05-6779-4188-af26-66acefb50257")
 		(sheetname "/")
 		(sheetfile "i2c-spi-shuttle-mikrobus-board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.38 3.92)
 			(end 1.38 3.92)
@@ -1159,6 +1185,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C2297"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0dc08df-9345-4ea2-bb57-c6581c2c32b9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/141dbd75-ea49-491b-bab2-f84e38910b2e")
 		(sheetname "/")
@@ -1381,6 +1420,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C25900"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "69288782-3d81-4b0b-baca-75ac52c9a831")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/18e8c613-5ba4-40be-95f6-137dfedececc")
 		(sheetname "/")
@@ -1581,6 +1633,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C307331"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84025dee-0e4b-4d68-bc96-4cc65cef39db")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6f8de07f-0398-4302-a04f-392595d2779d")
 		(sheetname "/")
@@ -1777,6 +1842,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C5190384"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc085682-ccd1-4239-a192-a585e0d5b922")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2245,6 +2323,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C25900"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3866fa95-cc52-409b-a950-1c313dd037a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/a71e1cdb-7c7f-4d73-89c6-5875a5a83e82")
 		(sheetname "/")
@@ -2445,6 +2536,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C307331"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d0eb0d45-e709-419f-87fb-70040bb878c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/087d3571-00fc-4256-8e21-91d0f266496c")
 		(sheetname "/")
@@ -2640,6 +2744,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C5338669"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3687f937-a0cc-489e-8a33-0b608fe3300c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3469,6 +3586,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C3664582"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e8b7fd2a-5911-4438-bbfd-b0e1fda344ad")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SW*DPDT*")
 		(path "/a6a0462d-46d1-486c-b09d-2fbb80575b19")
 		(sheetname "/")
@@ -3793,7 +3923,7 @@
 		(path "/d1ee82d7-70ab-4a9f-a651-def3ac61f15f")
 		(sheetname "/")
 		(sheetfile "i2c-spi-shuttle-mikrobus-board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)
@@ -4109,6 +4239,19 @@
 				)
 			)
 		)
+		(property "LCSC" "C23140"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ba6330b-3d9e-40ef-89db-46daa8822341")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/2bd88079-5c80-4320-8077-98f65d218892")
 		(sheetname "/")
@@ -4313,7 +4456,7 @@
 		(path "/d42749c2-3bc1-4e26-a191-57c4b773dd69")
 		(sheetname "/")
 		(sheetfile "i2c-spi-shuttle-mikrobus-board.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -1.38 -1.38)
 			(end 0 -1.38)

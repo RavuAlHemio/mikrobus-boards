@@ -5572,6 +5572,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C307331"
+			(at 139.7 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3bfa0363-1ab0-4430-8d4d-a8f0fbcd4b22")
 		)
@@ -5592,7 +5601,7 @@
 		(at 144.78 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5708,6 +5717,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C3664582"
+			(at 196.85 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "74732a59-87db-48ca-b142-ef5aba553c3a")
 		)
@@ -5797,6 +5815,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2297"
+			(at 226.06 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b43e497-7e67-4fb4-b7a8-24daa847a3c2")
 		)
@@ -5859,6 +5886,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 187.96 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C25900"
 			(at 187.96 101.6 0)
 			(effects
 				(font
@@ -5935,6 +5971,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C23140"
+			(at 238.76 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "93c3ac7c-20cf-4870-b871-14c8d446aec6")
 		)
@@ -5994,6 +6039,15 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 196.85 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5338669"
 			(at 196.85 67.31 0)
 			(effects
 				(font
@@ -6112,6 +6166,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C307331"
+			(at 82.55 49.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6750cd52-5e31-416a-b5e9-819bf238f240")
 		)
@@ -6176,6 +6239,15 @@
 		)
 		(property "Description" "8-bit I2C-bus and SMBus configurable I/O port with interrupt and reset, TSSOP-16"
 			(at 134.62 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2652336"
+			(at 134.62 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6296,6 +6368,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5190384"
+			(at 77.47 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "d47fe078-8f15-4b95-92f9-8511105b122d")
 		)
@@ -6409,6 +6490,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25900"
+			(at 157.48 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d0dc88fd-035c-4747-9731-caa85e949bf6")
 		)
@@ -6469,6 +6559,15 @@
 			)
 		)
 		(property "Description" "Switch, dual pole double throw, separate symbols"
+			(at 196.85 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3664582"
 			(at 196.85 129.54 0)
 			(effects
 				(font
@@ -6559,6 +6658,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C25900"
+			(at 172.72 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ddf35cf4-ffda-4bc4-8d0a-239938e25273")
 		)
@@ -6580,7 +6688,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "d1ee82d7-70ab-4a9f-a651-def3ac61f15f")
@@ -6667,7 +6775,7 @@
 		(at 64.77 137.16 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
