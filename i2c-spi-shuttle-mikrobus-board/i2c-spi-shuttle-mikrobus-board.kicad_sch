@@ -2598,6 +2598,10 @@
 		(uuid "375495ca-9228-428b-b09f-2bf88521712f")
 	)
 	(no_connect
+		(at 144.78 72.39)
+		(uuid "4688a012-8780-41ed-8ebb-b428ffb47d8b")
+	)
+	(no_connect
 		(at 59.69 134.62)
 		(uuid "4f7fecc7-9129-47fb-a8b4-67b18ad21c5f")
 	)
@@ -2622,12 +2626,12 @@
 		(uuid "84188939-b497-4f6e-9726-2c30c34949cd")
 	)
 	(no_connect
-		(at 144.78 64.77)
-		(uuid "8c80e822-0918-4367-b9ce-b479b214b94d")
-	)
-	(no_connect
 		(at 144.78 80.01)
 		(uuid "8e764f2b-a453-43d6-a999-1193e10fc353")
+	)
+	(no_connect
+		(at 144.78 74.93)
+		(uuid "9be1aaae-ad93-41c0-9a2f-d07f3c36f7da")
 	)
 	(no_connect
 		(at 102.87 129.54)
@@ -2636,10 +2640,6 @@
 	(no_connect
 		(at 201.93 64.77)
 		(uuid "ea91bc79-e317-4971-81ad-93e7e985f4b0")
-	)
-	(no_connect
-		(at 144.78 62.23)
-		(uuid "f2c64ce1-5ffa-4fd5-86f0-a7a0cee19e4a")
 	)
 	(no_connect
 		(at 102.87 137.16)
@@ -2740,7 +2740,7 @@
 		(uuid "2ef4603e-1709-4709-860b-f8948d92c0e7")
 	)
 	(bus_entry
-		(at 158.75 69.85)
+		(at 158.75 62.23)
 		(size -2.54 2.54)
 		(stroke
 			(width 0)
@@ -3055,15 +3055,6 @@
 		(uuid "c56b533a-197d-4b76-80cf-66f2e22d48b3")
 	)
 	(bus_entry
-		(at 158.75 72.39)
-		(size -2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7d94770-97e6-48fa-beab-31666c2ec713")
-	)
-	(bus_entry
 		(at 176.53 59.69)
 		(size 2.54 2.54)
 		(stroke
@@ -3152,6 +3143,15 @@
 			(type default)
 		)
 		(uuid "e68a9822-9181-4385-877a-a44d9bee21c6")
+	)
+	(bus_entry
+		(at 158.75 59.69)
+		(size -2.54 2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6fa2e55-0981-4fa8-9dd7-53ca1a8594d2")
 	)
 	(bus_entry
 		(at 214.63 72.39)
@@ -3247,6 +3247,16 @@
 			(type default)
 		)
 		(uuid "056a0739-82d5-4729-96a2-e023796e2d1a")
+	)
+	(bus
+		(pts
+			(xy 158.75 59.69) (xy 158.75 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08f8b074-c70e-437b-93f7-f6ef12832880")
 	)
 	(bus
 		(pts
@@ -3540,16 +3550,6 @@
 	)
 	(bus
 		(pts
-			(xy 158.75 69.85) (xy 158.75 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3dc8649c-e9c1-4a4b-a5c8-e39c496f1da5")
-	)
-	(bus
-		(pts
 			(xy 113.03 139.7) (xy 113.03 137.16)
 		)
 		(stroke
@@ -3610,7 +3610,7 @@
 	)
 	(bus
 		(pts
-			(xy 158.75 46.99) (xy 158.75 64.77)
+			(xy 158.75 46.99) (xy 158.75 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3777,6 +3777,16 @@
 			(type default)
 		)
 		(uuid "61b01e2e-d413-43a4-91e8-f40c7dba2fa6")
+	)
+	(wire
+		(pts
+			(xy 144.78 62.23) (xy 156.21 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62f8509e-ec9a-4f7a-86f6-c61a201fff83")
 	)
 	(wire
 		(pts
@@ -4100,16 +4110,6 @@
 	)
 	(bus
 		(pts
-			(xy 158.75 67.31) (xy 158.75 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "985b9b0a-6205-4bf8-a341-7b4395c140b1")
-	)
-	(bus
-		(pts
 			(xy 49.53 129.54) (xy 49.53 142.24)
 		)
 		(stroke
@@ -4130,7 +4130,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 72.39) (xy 156.21 72.39)
+			(xy 144.78 64.77) (xy 156.21 64.77)
 		)
 		(stroke
 			(width 0)
@@ -4258,15 +4258,15 @@
 		)
 		(uuid "ade52506-ebec-482c-ad8d-69c40a4fb128")
 	)
-	(wire
+	(bus
 		(pts
-			(xy 144.78 74.93) (xy 156.21 74.93)
+			(xy 158.75 62.23) (xy 158.75 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b4b39749-188e-4062-a301-89e8e16d7a8a")
+		(uuid "af2984d9-e7de-419e-a4e8-af365d08e355")
 	)
 	(bus
 		(pts
@@ -4619,7 +4619,7 @@
 		(uuid "ff211134-8d40-44c1-b83b-7139c6eb5f1e")
 	)
 	(label "OUT_~{RST}"
-		(at 156.21 69.85 180)
+		(at 156.21 62.23 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4629,7 +4629,7 @@
 		(uuid "007f802f-4b87-4f4b-a1d7-6fb9c323529c")
 	)
 	(label "OUT_~{INT}"
-		(at 156.21 74.93 180)
+		(at 156.21 69.85 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4799,7 +4799,7 @@
 		(uuid "3d338588-e6d3-4136-b270-05e336a8aa75")
 	)
 	(label "OUT_AN"
-		(at 156.21 67.31 180)
+		(at 156.21 64.77 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5259,7 +5259,7 @@
 		(uuid "d91541fd-f141-4b29-8fd2-80d66d725599")
 	)
 	(label "OUT_PWM"
-		(at 156.21 72.39 180)
+		(at 156.21 67.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)

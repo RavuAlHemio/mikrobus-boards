@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Connector_PinHeader_1.27mm_LowProfile")(type "KiCad")(uri "${KIPRJMOD}/../_footprints/Connector_PinHeader_1.27mm_LowProfile.pretty")(options "")(descr ""))
+)
