@@ -38,7 +38,7 @@ Shuttle click (base):
 |  16 |  14 |   12 |   10 |    8 |    6 |     4 |   2 |
 |  AN | RST |   CS |  SCK | CIPO | COPI | +3.3V | GND |
 
-(Here, too, the ground pins are connected internally. The connector is mounted "key-down".)
+(Here, too, the ground pins are connected internally. The connector is mounted "key-down", but the above table is oriented "key-up".)
 
 ## ARM SWD debug port
 
